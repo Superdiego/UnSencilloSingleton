@@ -6,7 +6,7 @@ El patrón de diseño Singleton o de instancia única está diseñado para restr
 
 ## Clasificación
 
-Es de tipo patrones creacionales.
+Es de tipo **patrones creacionales**.
 
 ![Imagen](https://www.arquitecturajava.com/wp-content/uploads/00111.gif)
 
