@@ -12,7 +12,7 @@ Es de tipo **patrones creacionales**.
 
 Esta clasificación son los que facilitan la tarea de creación de nuevos objetos, de tal forma que el proceso de creación pueda ser desacoplado de la implementación del resto del sistema.
 
-### Están basados en dos conceptos:
+### Basado en dos conceptos:
 
   1. Encapsular el conocimiento acerca de los tipos concretos que nuestro sistema utiliza. Estos patrones normalmente trabajarán con interfaces, por lo que la implementación concreta que utilicemos queda aislada.
   2. Ocultar cómo estas implementaciones concretas necesitan ser creadas y cómo se combinan entre sí.
