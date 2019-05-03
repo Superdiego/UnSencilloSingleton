@@ -22,3 +22,9 @@ Esta clasificación son los que facilitan la tarea de creación de nuevos objeto
     • Permite el refinamiento de las operaciones y la representación.
     • Permite un numero variable de instancias. 
     • El patrón es fácilmente configurable para permitir más de una instanciamás flexible que las operaciones de clases.
+    
+    
+    
+  ### Bibliografía
+  
+    • https://www.arquitecturajava.com/ejemplo-de-java-singleton-patrones-classloaders/
