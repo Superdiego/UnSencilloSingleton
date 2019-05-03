@@ -7,6 +7,7 @@ El patrón de diseño Singleton o de instancia única está diseñado para restr
 ## Clasificación
 
 Es de tipo patrones creacionales.
+![Imagen]()
 Esta clasificación son los que facilitan la tarea de creación de nuevos objetos, de tal forma que el proceso de creación pueda ser desacoplado de la implementación del resto del sistema.
 
 ### Están basados en dos conceptos:
