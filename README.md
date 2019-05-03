@@ -34,3 +34,4 @@ El primer paso es crear en la propia clase un objeto de la propia clase, que ser
   ### Bibliografía
   
     • https://www.arquitecturajava.com/ejemplo-de-java-singleton-patrones-classloaders/
+    • https://programandoointentandolo.com/2014/04/patron-singleton-java.html
