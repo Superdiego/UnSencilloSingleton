@@ -28,9 +28,7 @@ Esta clasificación son los que facilitan la tarea de creación de nuevos objeto
     
  ## Primeros pasos: ##
     
-  · El primer paso es crear en la propia clase un objeto de la propia clase, que será la única instancia de nuestra clase.
-  · Para impedir que se puedan crear nuevas instancias de nuestra clase tenemos que declarar el constructor de nuestra clase como privado para evitar que se pueden crear objetos desde fuera desde nuestra clase.
-  · Finalmente el ultimo paso es declarar un método publico para obtener el objeto que hemos creado en un primer momento y de esta forma dotar de una forma de acceso a la única instancia de nuestra clase.
+    El primer paso es crear en la propia clase un objeto de la propia clase, que será la única instancia de nuestra clase. Para impedir que se puedan crear nuevas instancias de nuestra clase tenemos que declarar el constructor de nuestra clase como privado para evitar que se pueden crear objetos desde fuera desde nuestra clase. Finalmente el ultimo paso es declarar un método publico para obtener el objeto que hemos creado en un primer momento y de esta forma dotar de una forma de acceso a la única instancia de nuestra clase.
     
     
   ### Bibliografía
