@@ -11,14 +11,14 @@ Esta clasificación son los que facilitan la tarea de creación de nuevos objeto
 
 ### Están basados en dos conceptos:
 
-    * 1. Encapsular el conocimiento acerca de los tipos concretos que nuestro sistema utiliza. Estos patrones normalmente trabajarán con interfaces, por lo que la implementación concreta que utilicemos queda aislada.
-    * 2. Ocultar cómo estas implementaciones concretas necesitan ser creadas y cómo se combinan entre sí.
+1. Encapsular el conocimiento acerca de los tipos concretos que nuestro sistema utiliza. Estos patrones normalmente trabajarán con interfaces, por lo que la implementación concreta que utilicemos queda aislada.
+2. Ocultar cómo estas implementaciones concretas necesitan ser creadas y cómo se combinan entre sí.
 
 ## Ventajas de su uso.
 
-    * • Este patrón de diseño se encarga de que una clase determinada unicamente pueda tener un único objeto.
-    * • Mejora sobre las variables globales. Ya no se reservan nombres para las variables globales, ahora solo existen instancias.
-    * • Controla el acceso a la instancia única, porque la clase Singleton encapsula la única instancia. Así se obtiene control sobre cómo y cuándo se accede a ella.
-    * • Permite el refinamiento de las operaciones y la representación.
-    * • Permite un numero variable de instancias. 
-    * • El patrón es fácilmente configurable para permitir más de una instanciamás flexible que las operaciones de clases.
+• Este patrón de diseño se encarga de que una clase determinada unicamente pueda tener un único objeto.
+• Mejora sobre las variables globales. Ya no se reservan nombres para las variables globales, ahora solo existen instancias.
+• Controla el acceso a la instancia única, porque la clase Singleton encapsula la única instancia. Así se obtiene control sobre cómo y cuándo se accede a ella.
+• Permite el refinamiento de las operaciones y la representación.
+• Permite un numero variable de instancias. 
+• El patrón es fácilmente configurable para permitir más de una instanciamás flexible que las operaciones de clases.
